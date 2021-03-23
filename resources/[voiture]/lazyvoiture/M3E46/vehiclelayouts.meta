@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleMetadataMgr>
+  <VehicleCoverBoundOffsetInfos />
+  <FirstPersonDriveByLookAroundData>
+     <Item type="CFirstPersonDriveByLookAroundData">
+		<Name>STD_SENTINEL_FRONT_RIGHT</Name>
+		<AllowLookback value="true" />
+		<HeadingLimits x="-190.000000" y="160.000000" />
+		<DataLeft>
+			<Offsets>
+				<Item>
+					<Offset value="0.000000" />
+					<AngleToBlendInOffset x="45.000000" y="90.000000" />
+				</Item>
+				<Item>
+					<Offset value="-0.020000" />
+					<AngleToBlendInOffset x="0.000000" y="50.000000" />
+				</Item>
+				<Item>
+					<Offset value="0.000000" />
+					<AngleToBlendInOffset x="40.000000" y="120.000000" />
+				</Item>
+			</Offsets>
+			<ExtraRelativePitch x="0.000000" y="-7.500000" />
+			<AngleToBlendInExtraPitch x="0.000000" y="100.000000" />
+		</DataLeft>
+		<DataRight>
+			<Offsets>
+				<Item>
+					<Offset value="0.275000" />
+					<AngleToBlendInOffset x="50.000000" y="120.000000" />
+				</Item>
+				<Item>
+					<Offset value="0.075000" />
+					<AngleToBlendInOffset x="20.000000" y="160.000000" />
+				</Item>
+				<Item>
+					<Offset value="0.025000" />
+					<AngleToBlendInOffset x="45.000000" y="110.000000" />
+				</Item>
+			</Offsets>
+			<ExtraRelativePitch x="-15.000000" y="10.000000" />
+			<AngleToBlendInExtraPitch x="50.000000" y="120.000000" />
+		</DataRight>
+    </Item>
+  </FirstPersonDriveByLookAroundData>
+</CVehicleMetadataMgr>
